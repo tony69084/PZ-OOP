@@ -1,0 +1,171 @@
+﻿<Window x:Class="Client_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Client_WPF"
+        mc:Ignorable="d"
+        Title="Футбольные поля" Height="550" Width="800" ResizeMode="CanMinimize">
+
+    <Grid Background="#FF4BD3D3">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.4*"></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <TabControl Grid.Column="0">
+
+            <TabItem>
+                <TabItem.Header>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Margin="3">Список</TextBlock>
+                    </StackPanel>
+                </TabItem.Header>
+
+                <TabItem.Content>
+                    <StackPanel>
+
+                        <ListBox Background="ForestGreen" ItemsSource="{Binding FootballFields}" SelectedItem="{Binding SelectedFootballField}" Height="430" >
+                            <ListBox.ItemTemplate>
+                                <DataTemplate>
+                                    <StackPanel Margin="5">
+                                        <TextBlock FontWeight="Bold" FontSize="14" Text="{Binding Path=ObjectName}" />
+                                        <TextBlock Text="{Binding Path=District}" />
+                                        
+                                    </StackPanel>
+                                </DataTemplate>
+                            </ListBox.ItemTemplate>
+                        </ListBox>
+
+                        <Button Command="{Binding DownCommand}"
+                            CommandParameter="{Binding FootballFields.Count}">Загрузить ещё</Button>
+
+                    </StackPanel>
+                </TabItem.Content>
+            </TabItem>
+
+            <TabItem >
+
+                <TabItem.Header>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Margin="3">Текущая сессия</TextBlock>
+                    </StackPanel>
+                </TabItem.Header>
+
+                <TabItem.Content>
+                    <StackPanel>
+
+                        <ListBox Background="ForestGreen" ItemsSource="{Binding CacheList}" SelectedItem="{Binding SelectedFootballField}" Height="410" >
+                            <ListBox.ItemTemplate>
+                                <DataTemplate>
+                                    <StackPanel Margin="5">
+                                        <TextBlock FontWeight="Bold" FontSize="14" Text="{Binding Path=ObjectName}" />
+                                        <TextBlock Text="{Binding Path=District}" />
+                                        
+                                    </StackPanel>
+                                </DataTemplate>
+                            </ListBox.ItemTemplate>
+                        </ListBox>
+
+                        <Button Command="{Binding AddCommand}"
+                                CommandParameter="{Binding SelectedFootballField}">Добавить в избранное</Button>
+                        <Button Command="{Binding RemoveCommand}"
+                            CommandParameter="{Binding SelectedFootballField}">Удалить</Button>
+
+
+                    </StackPanel>
+                </TabItem.Content>
+
+            </TabItem>
+
+            <TabItem >
+
+                <TabItem.Header>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Margin="3"><Run Text="Избранное"/></TextBlock>
+                    </StackPanel>
+                </TabItem.Header>
+
+                <TabItem.Content>
+                    <StackPanel>
+
+                        <ListBox Background="ForestGreen" ItemsSource="{Binding Favorites}" SelectedItem="{Binding SelectedFootballField}" Height="410" >
+                            <ListBox.ItemTemplate>
+                                <DataTemplate>
+                                    <StackPanel Margin="5">
+                                        <TextBlock FontWeight="Bold" FontSize="14" Text="{Binding Path=ObjectName}" />
+                                        <TextBlock Text="{Binding Path=District}" />
+                                        
+                                    </StackPanel>
+                                </DataTemplate>
+                            </ListBox.ItemTemplate>
+                        </ListBox>
+
+                        <Button Command="{Binding UpdateCommand}">Обновить</Button>
+                        <Button Command="{Binding ClearCommand}">Очистить избранное</Button>
+
+                    </StackPanel>
+                </TabItem.Content>
+
+            </TabItem>
+
+        </TabControl>
+
+        <WrapPanel Grid.Column="1" Width="180" Height="30" VerticalAlignment="Top" Margin="0 30" >
+
+            <TextBlock Grid.Column="1" Foreground="Black" FontSize="14" Text="Загружено " />
+            <TextBlock Grid.Column="1" Foreground="Black" FontSize="14" Text="{Binding FootballFields.Count}" FontWeight="Bold" />
+            <TextBlock Grid.Column="1" Foreground="Black" FontSize="14" Text=" из " />
+            <TextBlock Grid.Column="1" Foreground="Black" FontSize="14" Text="{Binding dbSize}" FontWeight="Bold" />
+
+        </WrapPanel>
+
+        <StackPanel Grid.Column="1" Margin="0 55" DataContext="{Binding SelectedFootballField}">
+
+            <TextBlock Foreground="Black" TextWrapping="Wrap" Width="470" Height="60" VerticalAlignment="Top">
+            <Run FontSize="14">Административный округ:</Run>
+            <LineBreak></LineBreak>
+            <Run Text="{Binding AdmArea}" FontSize="16" FontWeight="Bold"></Run>
+            </TextBlock>
+
+            <TextBlock Foreground="Black"  TextWrapping="Wrap" Width="470" Height="60" > 
+            <Run FontSize="14">Адрес:</Run>
+            <LineBreak></LineBreak>
+            <Run Text="{Binding Address}" FontSize="16" FontWeight="Bold"></Run>
+            </TextBlock>
+
+            <TextBlock Foreground="Black" TextWrapping="Wrap" Width="470" Height="60" > 
+            <Run FontSize="14">Email:</Run>
+            <LineBreak></LineBreak>
+            <Run Text="{Binding Email}" FontSize="16" FontWeight="Bold"></Run>
+            </TextBlock>
+
+            <TextBlock Foreground="Black" TextWrapping="Wrap" Width="470" Height="60" > 
+            <Run FontSize="14">WebSite:</Run>
+            <LineBreak></LineBreak>
+            <Run Text="{Binding WebSite}" FontSize="16" FontWeight="Bold"></Run>
+            </TextBlock>
+            
+            <TextBlock Foreground="Black" TextWrapping="Wrap" Width="470" Height="60" > 
+            <Run FontSize="14">Телефон:</Run>
+            <LineBreak></LineBreak>
+            <Run Text="{Binding HelpPhone}" FontSize="16" FontWeight="Bold"></Run>
+            </TextBlock>
+
+            <TextBlock Foreground="Black" TextWrapping="Wrap" Width="470" Height="60" > 
+            <Run FontSize="14">Кол-во сидячих мест:</Run>
+            <LineBreak></LineBreak>
+            <Run Text="{Binding Seats}" FontSize="16" FontWeight="Bold"></Run>
+            </TextBlock>
+
+            <TextBlock Foreground="Black" TextWrapping="Wrap" Width="470" Height="60" > 
+            <Run FontSize="14">Беслатно/платно:</Run>
+            <LineBreak></LineBreak>
+            <Run Text="{Binding Paid}" FontSize="16" FontWeight="Bold"></Run>
+            </TextBlock>
+
+        </StackPanel>
+
+    </Grid>
+
+</Window>

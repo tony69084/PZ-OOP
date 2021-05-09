@@ -1,0 +1,3242 @@
+[
+  {
+    "ObjectName": "Стадион «ГБУ «СШ № 4» Москомспорта»",
+    "AdmArea": "Юго-Восточный административный округ",
+    "District": "район Некрасовка",
+    "Address": "2-я Вольская улица, дом 16, корпус 3",
+    "Email": "s4@mossport.ru",
+    "WebSite": "www.s4mossport.ru",
+    "HelpPhone": "(495) 706-75-49",
+    "WorkingHoursWinter": [
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "10:00-23:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "10:00-23:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "10:00-23:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "10:00-23:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "10:00-23:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "10:00-23:00"
+      },
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "10:00-23:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "да",
+    "HasDressingRoom": "да",
+    "HasEatery": "нет",
+    "HasToilet": "да",
+    "HasWifi": "нет",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "да",
+    "HasMusic": "нет",
+    "Lighting": "смешанное освещение",
+    "SurfaceTypeWinter": "газонное покрытие (искусственное)",
+    "Seats": "936",
+    "Paid": "платно",
+    "DisabilityFriendly": "частично приспособлен"
+  },
+  {
+    "ObjectName": "Спортивный комплекс образовательного учреждения",
+    "AdmArea": "Юго-Восточный административный округ",
+    "District": "район Марьино",
+    "Address": "Батайский проезд, дом 23",
+    "Email": "maryno@edu.mos.ru",
+    "WebSite": "sch2110.mskobr.ru",
+    "HelpPhone": "(499) 356-03-11",
+    "WorkingHoursWinter": [
+      {
+        "DayOfWeek": "среда",
+        "Hours": "08:00-21:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "08:00-21:00"
+      },
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "08:00-21:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "08:00-21:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "08:00-21:00"
+      },
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "09:00-21:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "08:00-21:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "да",
+    "HasDressingRoom": "да",
+    "HasEatery": "нет",
+    "HasToilet": "да",
+    "HasWifi": "нет",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "нет",
+    "HasMusic": "нет",
+    "Lighting": "освещение лампами накаливания",
+    "SurfaceTypeWinter": "газонное покрытие (искусственное)",
+    "Seats": "0",
+    "Paid": "бесплатно",
+    "DisabilityFriendly": "не приспособлен"
+  },
+  {
+    "ObjectName": "Стадион «Луч»",
+    "AdmArea": "Северо-Западный административный округ",
+    "District": "район Покровское-Стрешнево",
+    "Address": "Волоколамское шоссе, дом 88, корпус 9, строение 1",
+    "Email": "",
+    "WebSite": "stadion-luch.ru",
+    "HelpPhone": "(495) 491-91-47",
+    "WorkingHoursWinter": [
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "08:00-20:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "нет",
+    "HasDressingRoom": "нет",
+    "HasEatery": "нет",
+    "HasToilet": "нет",
+    "HasWifi": "нет",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "нет",
+    "HasMusic": "нет",
+    "Lighting": "освещение лампами накаливания",
+    "SurfaceTypeWinter": "специальное покрытие",
+    "Seats": "0",
+    "Paid": "платно",
+    "DisabilityFriendly": "не приспособлен"
+  },
+  {
+    "ObjectName": "Спортивный комплекс образовательного учреждения",
+    "AdmArea": "Северо-Западный административный округ",
+    "District": "район Митино",
+    "Address": "Дубравная улица, дом 41, корпус 4",
+    "Email": "1900@edu.mos.ru",
+    "WebSite": "sch1900sz.mskobr.ru",
+    "HelpPhone": "(495) 752-69-98",
+    "WorkingHoursWinter": [
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "09:00-22:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "09:00-22:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "09:00-22:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "09:00-22:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "09:00-22:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "09:00-22:00"
+      },
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "09:00-22:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "да",
+    "HasDressingRoom": "да",
+    "HasEatery": "да",
+    "HasToilet": "да",
+    "HasWifi": "да",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "да",
+    "HasMusic": "нет",
+    "Lighting": "смешанное освещение",
+    "SurfaceTypeWinter": "газонное покрытие (искусственное)",
+    "Seats": "0",
+    "Paid": "бесплатно",
+    "DisabilityFriendly": "не приспособлен"
+  },
+  {
+    "ObjectName": "Спортивный комплекс высшего учебного заведения «Московский институт электронной техники»",
+    "AdmArea": "Зеленоградский административный округ",
+    "District": "район Старое Крюково",
+    "Address": "город Зеленоград, корпус 901",
+    "Email": "skmiet@mail.ru",
+    "WebSite": "miet.ru",
+    "HelpPhone": "(499) 720-85-51",
+    "WorkingHoursWinter": [
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "08:00-20:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "нет",
+    "HasDressingRoom": "нет",
+    "HasEatery": "нет",
+    "HasToilet": "нет",
+    "HasWifi": "нет",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "нет",
+    "HasMusic": "нет",
+    "Lighting": "смешанное освещение",
+    "SurfaceTypeWinter": "газонное покрытие (натуральное)",
+    "Seats": "500",
+    "Paid": "бесплатно",
+    "DisabilityFriendly": "частично приспособлен"
+  },
+  {
+    "ObjectName": "Стадион (менее 1500 мест) «Тушино»",
+    "AdmArea": "Северо-Западный административный округ",
+    "District": "район Южное Тушино",
+    "Address": "Лодочная улица, дом 33, строение 1",
+    "Email": "gbucfkisszao@gmail.ru",
+    "WebSite": "www.sport-szao.ru/",
+    "HelpPhone": "(499) 493-01-80",
+    "WorkingHoursWinter": [
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "08:00-23:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "08:00-23:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "08:00-23:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "08:00-23:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "08:00-23:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "08:00-23:00"
+      },
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "08:00-23:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "да",
+    "HasDressingRoom": "да",
+    "HasDressingRoom": "да",
+    "HasEatery": "нет",
+    "HasToilet": "да",
+    "HasWifi": "нет",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "да",
+    "HasMusic": "да",
+    "Lighting": "смешанное освещение",
+    "SurfaceTypeWinter": "газонное покрытие (искусственное)",
+    "Seats": "0",
+    "Paid": "бесплатно",
+    "DisabilityFriendly": null
+  },
+  {
+    "ObjectName": "Парк, озелененная городская территория «Борисовские пруды»",
+    "AdmArea": "Южный административный округ",
+    "District": "район Зябликово",
+    "Address": "улица Маршала Захарова, дом 6, корпус 1",
+    "Email": "info@park-kuzminki.ru",
+    "WebSite": "www.park-kuzminki.ru",
+    "HelpPhone": "(499) 175-33-69",
+    "WorkingHoursWinter": [
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "08:00-22:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "08:00-22:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "08:00-22:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "08:00-22:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "08:00-22:00"
+      },
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "08:00-22:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "08:00-22:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "нет",
+    "HasDressingRoom": "нет",
+    "HasEatery": "нет",
+    "HasToilet": "да",
+    "HasWifi": "нет",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "нет",
+    "HasMusic": "нет",
+    "Lighting": "смешанное освещение",
+    "SurfaceTypeWinter": "газонное покрытие (искусственное)",
+    "Seats": "0",
+    "Paid": "бесплатно",
+    "DisabilityFriendly": "не приспособлен"
+  },
+  {
+    "ObjectName": "Стадион «Воробьёвы горы»",
+    "AdmArea": "Юго-Западный административный округ",
+    "District": "Гагаринский район",
+    "Address": "улица Косыгина, дом 17, строение 1",
+    "Email": "SivtsovaIV@edu.mos.ru",
+    "WebSite": "vg.mskobr.ru",
+    "HelpPhone": "(499) 137-85-30",
+    "WorkingHoursWinter": [
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "08:00-20:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "да",
+    "HasDressingRoom": "да",
+    "HasEatery": "нет",
+    "HasToilet": "да",
+    "HasWifi": "нет",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "нет",
+    "HasMusic": "да",
+    "Lighting": "смешанное освещение",
+    "SurfaceTypeWinter": "специальное покрытие",
+    "Seats": "5000",
+    "Paid": "платно",
+    "DisabilityFriendly": "не приспособлен"
+  },
+  {
+    "ObjectName": "Спортивный комплекс образовательного учреждения",
+    "AdmArea": "Западный административный округ",
+    "District": "район Фили-Давыдково",
+    "Address": "Кременчугская улица, дом 11, строение 5",
+    "Email": "si-intrl@edu.mos.ru",
+    "WebSite": "int.mskobr.ru/info_edu/basics/",
+    "HelpPhone": "(499) 445-52-10",
+    "WorkingHoursWinter": [
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "закрыто"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "08:00-16:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "08:00-20:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "да",
+    "HasDressingRoom": "да",
+    "HasEatery": "да",
+    "HasToilet": "да",
+    "HasWifi": "да",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "да",
+    "HasMusic": "да",
+    "Lighting": "без дополнительного освещения",
+    "SurfaceTypeWinter": "газонное покрытие (натуральное)",
+    "Seats": "0",
+    "Paid": "бесплатно",
+    "DisabilityFriendly": null
+  },
+  {
+    "ObjectName": "Стадион (1500 и более мест) «Стадион «Янтарь»",
+    "AdmArea": "Северо-Западный административный округ",
+    "District": "район Строгино",
+    "Address": "улица Маршала Катукова, дом 26",
+    "Email": "s94@mossport.ru",
+    "WebSite": "www.fcstrogino.ru",
+    "HelpPhone": "(495) 942-88-47",
+    "WorkingHoursWinter": [
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "07:00-23:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "07:00-23:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "07:00-23:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "07:00-23:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "07:00-23:00"
+      },
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "07:00-23:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "07:00-23:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "да",
+    "HasDressingRoom": "да",
+    "HasEatery": "да",
+    "HasToilet": "да",
+    "HasWifi": "да",
+    "HasCashMachine": "да",
+    "HasFirstAidPost": "да",
+    "HasMusic": "да",
+    "Lighting": "смешанное освещение",
+    "SurfaceTypeWinter": "газонное покрытие (искусственное)",
+    "Seats": "2000",
+    "Paid": "платно",
+    "DisabilityFriendly": "приспособлен для лиц с нарушением ОДА"
+  },
+  {
+    "ObjectName": "Комплекс спортивных сооружений «Автомобилист»",
+    "AdmArea": "Северный административный округ",
+    "District": "Савёловский район",
+    "Address": "Вятская улица, дом 41",
+    "Email": "s75@mossport.ru",
+    "WebSite": "dush75.ru/",
+    "HelpPhone": "(495) 685-81-67",
+    "WorkingHoursWinter": [
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "08:00-20:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "да",
+    "HasDressingRoom": "да",
+    "HasEatery": "нет",
+    "HasToilet": "да",
+    "HasWifi": "нет",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "да",
+    "HasMusic": "нет",
+    "Lighting": "смешанное освещение",
+    "SurfaceTypeWinter": "газонное покрытие (искусственное)",
+    "Seats": "0",
+    "Paid": "платно",
+    "DisabilityFriendly": "частично приспособлен"
+  },
+  {
+    "ObjectName": "Физкультурно-оздоровительный комплекс «Дружба»",
+    "AdmArea": "Юго-Западный административный округ",
+    "District": "Обручевский район",
+    "Address": "улица Миклухо-Маклая, дом 4",
+    "Email": "information@rudn.ru",
+    "WebSite": "www.rudn.ru/",
+    "HelpPhone": "(495) 434-71-82",
+    "WorkingHoursWinter": [
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "08:00-20:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "да",
+    "HasDressingRoom": "да",
+    "HasDressingRoom": "да",
+    "HasEatery": "да",
+    "HasToilet": "да",
+    "HasWifi": "нет",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "да",
+    "HasMusic": "да",
+    "Lighting": "смешанное освещение",
+    "SurfaceTypeWinter": "газонное покрытие (искусственное)",
+    "Seats": "0",
+    "Paid": "платно",
+    "DisabilityFriendly": "не приспособлен"
+  },
+  {
+    "ObjectName": "Стадион «Луч»",
+    "AdmArea": "Северо-Западный административный округ",
+    "District": "район Покровское-Стрешнево",
+    "Address": "Волоколамское шоссе, дом 88, корпус 9, строение 1",
+    "Email": "",
+    "WebSite": "stadion-luch.ru",
+    "HelpPhone": "(495) 491-91-47",
+    "WorkingHoursWinter": [
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "08:00-20:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "нет",
+    "HasDressingRoom": "нет",
+    "HasEatery": "нет",
+    "HasToilet": "нет",
+    "HasWifi": "нет",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "нет",
+    "HasMusic": "нет",
+    "Lighting": "освещение лампами накаливания",
+    "SurfaceTypeWinter": "специальное покрытие",
+    "Seats": "0",
+    "Paid": "платно",
+    "DisabilityFriendly": "не приспособлен"
+  },
+  {
+    "ObjectName": "Физкультурно-оздоровительный комплекс «Универсальный дворец спорта «Крылья советов»»",
+    "AdmArea": "Западный административный округ",
+    "District": "Можайский район",
+    "Address": "улица Толбухина, дом 10, корпус 4",
+    "Email": "ovchinnikov@oaovils.ru",
+    "WebSite": "ksmoscow.ru",
+    "HelpPhone": "(495) 448-32-61",
+    "WorkingHoursWinter": [
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "09:00-22:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "09:00-22:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "09:00-22:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "09:00-22:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "09:00-22:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "09:00-22:00"
+      },
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "09:00-22:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "да",
+    "HasDressingRoom": "да",
+    "HasEatery": "да",
+    "HasToilet": "да",
+    "HasWifi": "нет",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "нет",
+    "HasMusic": "да",
+    "Lighting": "освещение газоразрядными лампами",
+    "SurfaceTypeWinter": "газонное покрытие (искусственное)",
+    "Seats": "0",
+    "Paid": "платно",
+    "DisabilityFriendly": "не приспособлен"
+  },
+  {
+    "ObjectName": "Стадион «Молния»",
+    "AdmArea": "Северный административный округ",
+    "District": "Дмитровский район",
+    "Address": "Лобненская улица, дом 13А",
+    "Email": "s70@mossport.ru",
+    "WebSite": "dush-70.ru",
+    "HelpPhone": "(495) 483-35-04",
+    "WorkingHoursWinter": [
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "08:00-22:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "08:00-22:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "08:00-22:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "08:00-22:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "08:00-22:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "08:00-22:00"
+      },
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "08:00-22:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "да",
+    "HasDressingRoom": "да",
+    "HasEatery": "нет",
+    "HasToilet": "да",
+    "HasWifi": "нет",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "да",
+    "HasMusic": "да",
+    "Lighting": "смешанное освещение",
+    "SurfaceTypeWinter": "газонное покрытие (искусственное)",
+    "Seats": "876",
+    "Paid": "платно",
+    "DisabilityFriendly": "частично приспособлен"
+  },
+  {
+    "ObjectName": "Дворовая территория",
+    "AdmArea": "Юго-Западный административный округ",
+    "District": "район Черёмушки",
+    "Address": "Профсоюзная улица, дом 42, корпус 3",
+    "Email": "myn_cherem@mail.ru",
+    "WebSite": "mcherem.ru",
+    "HelpPhone": "(495) 332-13-11",
+    "WorkingHoursWinter": [
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "08:00-22:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "08:00-22:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "08:00-22:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "08:00-22:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "08:00-22:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "08:00-22:00"
+      },
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "08:00-22:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "да",
+    "HasDressingRoom": "да",
+    "HasEatery": "нет",
+    "HasToilet": "да",
+    "HasWifi": "нет",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "нет",
+    "HasMusic": "да",
+    "Lighting": "смешанное освещение",
+    "SurfaceTypeWinter": "газонное покрытие (искусственное)",
+    "Seats": "100",
+    "Paid": "бесплатно",
+    "DisabilityFriendly": "не приспособлен"
+  },
+  {
+    "ObjectName": "Дворовая территория",
+    "AdmArea": "Северный административный округ",
+    "District": "Молжаниновский район",
+    "Address": "3-я Подрезковская улица, дом 14, строение 1",
+    "Email": "Sao-molg@mos.ru",
+    "WebSite": "molzhaninovskiy.mos.ru",
+    "HelpPhone": "(499) 500-19-71",
+    "WorkingHoursWinter": [
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "08:00-23:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "08:00-23:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "08:00-23:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "08:00-23:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "08:00-23:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "08:00-23:00"
+      },
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "08:00-23:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "нет",
+    "HasDressingRoom": "нет",
+    "HasEatery": "нет",
+    "HasToilet": "нет",
+    "HasWifi": "нет",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "нет",
+    "HasMusic": "нет",
+    "Lighting": "без дополнительного освещения",
+    "SurfaceTypeWinter": "газонное покрытие (натуральное)",
+    "Seats": "0",
+    "Paid": "бесплатно",
+    "DisabilityFriendly": "частично приспособлен"
+  },
+  {
+    "ObjectName": "Комплекс спортивных сооружений «Академия «Спартак» по футболу имени Ф. Черенкова»",
+    "AdmArea": "Восточный административный округ",
+    "District": "район Сокольники",
+    "Address": "Малый Олений переулок, дом 23, строение 1А",
+    "Email": "events@stadionspartak.ru",
+    "WebSite": "spartak.com/main/business/2629",
+    "HelpPhone": "(499) 268-88-77",
+    "WorkingHoursWinter": [
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "07:00-23:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "07:00-23:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "07:00-23:00"
+      },
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "07:00-23:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "07:00-23:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "07:00-23:00"
+      },
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "07:00-23:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "нет",
+    "HasDressingRoom": "нет",
+    "HasEatery": "нет",
+    "HasToilet": "да",
+    "HasWifi": "нет",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "нет",
+    "HasMusic": "нет",
+    "Lighting": "освещение газоразрядными лампами",
+    "SurfaceTypeWinter": "газонное покрытие (искусственное)",
+    "Seats": "1000",
+    "Paid": "платно",
+    "DisabilityFriendly": "не приспособлен"
+  },
+  {
+    "ObjectName": "Братиславский парк",
+    "AdmArea": "Юго-Восточный административный округ",
+    "District": "район Марьино",
+    "Address": "Новомарьинская улица, дом 10, корпус 1",
+    "Email": "park850@mail.ru",
+    "WebSite": "parkivmaryino.ru",
+    "HelpPhone": "(495) 657-45-12",
+    "WorkingHoursWinter": [
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "10:00-23:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "10:00-23:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "10:00-23:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "10:00-23:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "10:00-23:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "10:00-23:00"
+      },
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "10:00-23:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "нет",
+    "HasDressingRoom": "нет",
+    "HasEatery": "нет",
+    "HasToilet": "да",
+    "HasWifi": "нет",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "нет",
+    "HasMusic": "нет",
+    "Lighting": "смешанное освещение",
+    "SurfaceTypeWinter": "газонное покрытие (искусственное)",
+    "Seats": "480",
+    "Paid": "платно",
+    "DisabilityFriendly": "приспособлен для всех групп инвалидов"
+  },
+  {
+    "ObjectName": "Стадион (1500 и более мест) «Спартаковец имени Н.П. Старостина»»",
+    "AdmArea": "Восточный административный округ",
+    "District": "район Богородское",
+    "Address": "3-я Гражданская улица, дом 47",
+    "Email": "spartakovets2013@yandex.ru",
+    "WebSite": "stadion-spartakovets.ru",
+    "HelpPhone": "(495) 963-31-63",
+    "WorkingHoursWinter": [
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "09:00-22:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "09:00-22:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "09:00-22:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "09:00-22:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "09:00-22:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "09:00-22:00"
+      },
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "09:00-22:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "да",
+    "HasDressingRoom": "да",
+    "HasDressingRoom": "да",
+    "HasEatery": "да",
+    "HasToilet": "да",
+    "HasWifi": "да",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "да",
+    "HasMusic": "да",
+    "Lighting": "смешанное освещение",
+    "SurfaceTypeWinter": "газонное покрытие (искусственное)",
+    "Seats": "500",
+    "Paid": "платно",
+    "DisabilityFriendly": "не приспособлен"
+  },
+  {
+    "ObjectName": "Спортивный комплекс высшего учебного заведения «Российский университет дружбы народов»",
+    "AdmArea": "Юго-Западный административный округ",
+    "District": "Обручевский район",
+    "Address": "улица Миклухо-Маклая, дом 41",
+    "Email": "",
+    "WebSite": "www.rudn.ru/?pagec=4843",
+    "HelpPhone": "(495) 434-71-82",
+    "WorkingHoursWinter": [
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "08:00-20:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "нет",
+    "HasDressingRoom": "нет",
+    "HasEatery": "нет",
+    "HasToilet": "нет",
+    "HasWifi": "нет",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "нет",
+    "HasMusic": "нет",
+    "Lighting": "смешанное освещение",
+    "SurfaceTypeWinter": "газонное покрытие (натуральное)",
+    "Seats": "3000",
+    "Paid": "бесплатно",
+    "DisabilityFriendly": null
+  },
+  {
+    "ObjectName": "Спортивный комплекс образовательного учреждения",
+    "AdmArea": "Северо-Восточный административный округ",
+    "District": "Бабушкинский район",
+    "Address": "Енисейская улица, дом 32, корпус 3",
+    "Email": "1095@edu.mos.ru",
+    "WebSite": "sch1095sv.mskobr.ru",
+    "HelpPhone": "(495) 470-91-55",
+    "WorkingHoursWinter": [
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "09:00-21:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "09:00-21:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "17:00-21:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "17:00-21:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "17:00-21:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "17:00-21:00"
+      },
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "17:00-21:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "да",
+    "HasDressingRoom": "да",
+    "HasEatery": "да",
+    "HasToilet": "да",
+    "HasWifi": "да",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "да",
+    "HasMusic": "да",
+    "Lighting": "без дополнительного освещения",
+    "SurfaceTypeWinter": "газонное покрытие (искусственное)",
+    "Seats": "0",
+    "Paid": "бесплатно",
+    "DisabilityFriendly": "не приспособлен"
+  },
+  {
+    "ObjectName": "Физкультурно-оздоровительный комплекс «ГБУ «ЦФКиС САО г. Москвы» Москомспорта, на ул. Фестивальной»",
+    "AdmArea": "Северный административный округ",
+    "District": "район Левобережный",
+    "Address": "Фестивальная улица, дом 4",
+    "Email": "sportsao@mail.ru",
+    "WebSite": "sportsao.ru",
+    "HelpPhone": "(495) 754-98-48",
+    "WorkingHoursWinter": [
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "10:00-22:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "10:00-22:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "10:00-22:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "10:00-22:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "10:00-22:00"
+      },
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "10:00-22:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "10:00-22:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "да",
+    "HasDressingRoom": "да",
+    "HasEatery": "да",
+    "HasToilet": "да",
+    "HasWifi": "нет",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "да",
+    "HasMusic": "да",
+    "Lighting": "освещение газоразрядными лампами",
+    "SurfaceTypeWinter": "газонное покрытие (искусственное)",
+    "Seats": "0",
+    "Paid": "платно",
+    "DisabilityFriendly": null
+  },
+  {
+    "ObjectName": "Спортивный городок «Лужники»",
+    "AdmArea": "Центральный административный округ",
+    "District": "район Хамовники",
+    "Address": "улица Лужники, дом 24, строение 11",
+    "Email": "",
+    "WebSite": "luzhniki.ru",
+    "HelpPhone": "(495) 780-08-08",
+    "WorkingHoursWinter": [
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "08:00-20:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "да",
+    "HasDressingRoom": "да",
+    "HasEatery": "да",
+    "HasToilet": "да",
+    "HasWifi": "нет",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "да",
+    "HasMusic": "да",
+    "Lighting": "освещение лампами накаливания",
+    "SurfaceTypeWinter": "газонное покрытие (натуральное)",
+    "Seats": "2640",
+    "Paid": "платно",
+    "DisabilityFriendly": "частично приспособлен"
+  },
+  {
+    "ObjectName": "Спортивный комплекс образовательного учреждения",
+    "AdmArea": "Северный административный округ",
+    "District": "район Восточное Дегунино",
+    "Address": "Дубнинская улица, дом 23",
+    "Email": "1383@edu.mos.ru",
+    "WebSite": "sch1383.mskobr.ru",
+    "HelpPhone": "(499) 481-08-10",
+    "WorkingHoursWinter": [
+      {
+        "DayOfWeek": "среда",
+        "Hours": "08:30-22:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "08:30-22:00"
+      },
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "08:30-22:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "08:30-22:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "08:00-22:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "08:00-22:00"
+      },
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "08:00-22:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "да",
+    "HasDressingRoom": "да",
+    "HasEatery": "да",
+    "HasToilet": "да",
+    "HasWifi": "нет",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "да",
+    "HasMusic": "нет",
+    "Lighting": "смешанное освещение",
+    "SurfaceTypeWinter": "газонное покрытие (искусственное)",
+    "Seats": "0",
+    "Paid": "платно",
+    "DisabilityFriendly": "не приспособлен"
+  },
+  {
+    "ObjectName": "Физкультурно-спортивный комплекс «Медик»",
+    "AdmArea": "Западный административный округ",
+    "District": "район Кунцево",
+    "Address": "улица Маршала Тимошенко, дом 10",
+    "Email": "",
+    "WebSite": "www.cchp.ru",
+    "HelpPhone": "(499) 149-30-13",
+    "WorkingHoursWinter": [
+      {
+        "DayOfWeek": "среда",
+        "Hours": "09:00-17:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "09:00-17:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "09:00-17:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "09:00-17:00"
+      },
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "09:00-17:00"
+      },
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "09:00-17:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "09:00-17:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "да",
+    "HasDressingRoom": "да",
+    "HasEatery": "нет",
+    "HasToilet": "да",
+    "HasWifi": "нет",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "нет",
+    "HasMusic": "нет",
+    "Lighting": "без дополнительного освещения",
+    "SurfaceTypeWinter": "газонное покрытие (натуральное)",
+    "Seats": "500",
+    "Paid": "бесплатно",
+    "DisabilityFriendly": "не приспособлен"
+  },
+  {
+    "ObjectName": "Спортивный комплекс образовательного учреждения",
+    "AdmArea": "Восточный административный округ",
+    "District": "район Новогиреево",
+    "Address": "Федеративный проспект, дом 29А",
+    "Email": "1324@edu.mos.ru",
+    "WebSite": "sch1324.mskobr.ru",
+    "HelpPhone": "(495) 303-51-30",
+    "WorkingHoursWinter": [
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "10:00-21:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "10:00-21:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "18:30-21:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "18:30-21:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "18:30-21:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "18:30-21:00"
+      },
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "18:30-21:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "да",
+    "HasDressingRoom": "да",
+    "HasEatery": "нет",
+    "HasToilet": "нет",
+    "HasWifi": "да",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "да",
+    "HasMusic": "нет",
+    "Lighting": "освещение газоразрядными лампами",
+    "SurfaceTypeWinter": "газонное покрытие (искусственное)",
+    "Seats": "0",
+    "Paid": "бесплатно",
+    "DisabilityFriendly": "не приспособлен"
+  },
+  {
+    "ObjectName": "Комплекс спортивных сооружений «Рублево»",
+    "AdmArea": "Западный административный округ",
+    "District": "район Кунцево",
+    "Address": "улица Василия Ботылёва, дом 41",
+    "Email": "s94@mossport.ru",
+    "WebSite": "fcstrogino.ru",
+    "HelpPhone": "(499) 727-40-05",
+    "WorkingHoursWinter": [
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "08:00-20:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "да",
+    "HasDressingRoom": "да",
+    "HasEatery": "нет",
+    "HasToilet": "да",
+    "HasWifi": "нет",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "да",
+    "HasMusic": "нет",
+    "Lighting": "освещение газоразрядными лампами",
+    "SurfaceTypeWinter": "газонное покрытие (искусственное)",
+    "Seats": "0",
+    "Paid": "платно",
+    "DisabilityFriendly": "не приспособлен"
+  },
+  {
+    "ObjectName": "Спортивный комплекс высшего учебного заведения «Московской сельскохозяйственной академии им. К.А. Тимирязева»",
+    "AdmArea": "Северный административный округ",
+    "District": "Тимирязевский район",
+    "Address": "Лиственничная аллея, дом 12",
+    "Email": "info@timacad.ru",
+    "WebSite": "timacad.ru",
+    "HelpPhone": "(495) 976-20-53",
+    "WorkingHoursWinter": [
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "09:00-22:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "09:00-22:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "09:00-22:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "09:00-22:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "09:00-22:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "09:00-22:00"
+      },
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "09:00-22:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "нет",
+    "HasDressingRoom": "нет",
+    "HasEatery": "нет",
+    "HasToilet": "нет",
+    "HasWifi": "нет",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "нет",
+    "HasMusic": "нет",
+    "Lighting": "смешанное освещение",
+    "SurfaceTypeWinter": "газонное покрытие (натуральное)",
+    "Seats": "0",
+    "Paid": "платно",
+    "DisabilityFriendly": "не приспособлен"
+  },
+  {
+    "ObjectName": "Стадион (1500 и более мест) «Спортивный комплекс имени Э.А. Стрельцова»",
+    "AdmArea": "Южный административный округ",
+    "District": "Даниловский район",
+    "Address": "Восточная улица, дом 4А",
+    "Email": "sport@strel.ru",
+    "WebSite": "strel.ru",
+    "HelpPhone": "(495) 675-39-07",
+    "WorkingHoursWinter": [
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "08:00-20:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "да",
+    "HasDressingRoom": "да",
+    "HasDressingRoom": "да",
+    "HasEatery": "да",
+    "HasToilet": "да",
+    "HasWifi": "нет",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "да",
+    "HasMusic": "да",
+    "Lighting": "освещение лампами накаливания",
+    "SurfaceTypeWinter": "газонное покрытие (натуральное)",
+    "Seats": "1023",
+    "Paid": "платно",
+    "DisabilityFriendly": null
+  },
+  {
+    "ObjectName": "Северное спортивное ядро «Лужники»",
+    "AdmArea": "Центральный административный округ",
+    "District": "район Хамовники",
+    "Address": "улица Лужники, дом 24, строение 8Е",
+    "Email": "",
+    "WebSite": "luzhniki.ru",
+    "HelpPhone": "(495) 780-08-08",
+    "WorkingHoursWinter": [
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "08:00-23:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "08:00-23:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "08:00-23:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "08:00-23:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "08:00-23:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "08:00-23:00"
+      },
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "08:00-23:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "да",
+    "HasDressingRoom": "да",
+    "HasEatery": "да",
+    "HasToilet": "да",
+    "HasWifi": "да",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "да",
+    "HasMusic": "да",
+    "Lighting": "смешанное освещение",
+    "SurfaceTypeWinter": "газонное покрытие (натуральное)",
+    "Seats": "0",
+    "Paid": "платно",
+    "DisabilityFriendly": "частично приспособлен"
+  },
+  {
+    "ObjectName": "Стадион «Свиблово»",
+    "AdmArea": "Северо-Восточный административный округ",
+    "District": "район Свиблово",
+    "Address": "Тенистый проезд, дом 6",
+    "Email": "radugasviblovo@mail.ru",
+    "WebSite": "sviblovo.mos.ru",
+    "HelpPhone": "(499) 181-73-51",
+    "WorkingHoursWinter": [
+      {
+        "DayOfWeek": "среда",
+        "Hours": "08:00-22:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "08:00-22:00"
+      },
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "08:00-22:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "08:00-22:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "08:00-22:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "08:00-22:00"
+      },
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "08:00-22:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "да",
+    "HasDressingRoom": "да",
+    "HasEatery": "да",
+    "HasToilet": "да",
+    "HasWifi": "нет",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "нет",
+    "HasMusic": "нет",
+    "Lighting": "освещение светодиодными лампами",
+    "SurfaceTypeWinter": "газонное покрытие (искусственное)",
+    "Seats": "336",
+    "Paid": "бесплатно",
+    "DisabilityFriendly": "не приспособлен"
+  },
+  {
+    "ObjectName": "Спортивный комплекс образовательного учреждения",
+    "AdmArea": "Юго-Восточный административный округ",
+    "District": "район Текстильщики",
+    "Address": "улица Шкулёва, дом 2, строение 1",
+    "Email": "dpgaidar@edu.mos.ru",
+    "WebSite": "dpgaidar.mskobr.ru",
+    "HelpPhone": "(499) 179-65-11",
+    "WorkingHoursWinter": [
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "закрыто"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "15:00-20:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "15:00-20:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "15:00-20:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "15:00-20:00"
+      },
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "15:00-20:00"
+      },
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "закрыто"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "да",
+    "HasDressingRoom": "да",
+    "HasEatery": "нет",
+    "HasToilet": "да",
+    "HasWifi": "нет",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "нет",
+    "HasMusic": "нет",
+    "Lighting": "смешанное освещение",
+    "SurfaceTypeWinter": "газонное покрытие (искусственное)",
+    "Seats": "0",
+    "Paid": "платно",
+    "DisabilityFriendly": null
+  },
+  {
+    "ObjectName": "Спортивный комплекс образовательного учреждения",
+    "AdmArea": "Юго-Западный административный округ",
+    "District": "Обручевский район",
+    "Address": "улица Академика Челомея, дом 6А",
+    "Email": "1514@edu.mos.ru",
+    "WebSite": "gym1514uz.mskobr.ru/",
+    "HelpPhone": "(495) 936-10-87",
+    "WorkingHoursWinter": [
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "08:00-22:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "08:00-22:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "08:00-22:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "08:00-22:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "08:00-22:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "08:00-22:00"
+      },
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "08:00-22:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "да",
+    "HasDressingRoom": "да",
+    "HasEatery": "нет",
+    "HasToilet": "да",
+    "HasWifi": "нет",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "нет",
+    "HasMusic": "да",
+    "Lighting": "освещение газоразрядными лампами",
+    "SurfaceTypeWinter": "газонное покрытие (искусственное)",
+    "Seats": "70",
+    "Paid": "бесплатно",
+    "DisabilityFriendly": "не приспособлен"
+  },
+  {
+    "ObjectName": "Стадион (1500 и более мест) «Спартаковец имени Н.П. Старостина»»",
+    "AdmArea": "Восточный административный округ",
+    "District": "район Богородское",
+    "Address": "3-я Гражданская улица, дом 47",
+    "Email": "spartakovets2013@yandex.ru",
+    "WebSite": "stadion-spartakovets.ru",
+    "HelpPhone": "(495) 963-31-63",
+    "WorkingHoursWinter": [
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "09:00-22:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "09:00-22:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "09:00-22:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "09:00-22:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "09:00-22:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "09:00-22:00"
+      },
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "09:00-22:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "да",
+    "HasDressingRoom": "да",
+    "HasDressingRoom": "да",
+    "HasEatery": "да",
+    "HasToilet": "да",
+    "HasWifi": "да",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "да",
+    "HasMusic": "да",
+    "Lighting": "смешанное освещение",
+    "SurfaceTypeWinter": "газонное покрытие (искусственное)",
+    "Seats": "5100",
+    "Paid": "платно",
+    "DisabilityFriendly": "не приспособлен"
+  },
+  {
+    "ObjectName": "Стадион «ВТБ Арена парк»",
+    "AdmArea": "Северный административный округ",
+    "District": "район Аэропорт",
+    "Address": "Ленинградский проспект, дом 36",
+    "Email": "pr@vtb-arena.com",
+    "WebSite": "vtb-arena.com",
+    "HelpPhone": "(495) 122-42-22",
+    "WorkingHoursWinter": [
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "08:00-23:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "08:00-23:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "08:00-23:00"
+      },
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "08:00-23:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "08:00-23:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "08:00-23:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "08:00-23:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "да",
+    "HasDressingRoom": "да",
+    "HasEatery": "да",
+    "HasToilet": "да",
+    "HasWifi": "да",
+    "HasCashMachine": "да",
+    "HasFirstAidPost": "да",
+    "HasMusic": "да",
+    "Lighting": "смешанное освещение",
+    "SurfaceTypeWinter": "газонное покрытие (искусственное)",
+    "Seats": "26049",
+    "Paid": "платно",
+    "DisabilityFriendly": "частично приспособлен"
+  },
+  {
+    "ObjectName": "Малая спортивная арена «Лужники»",
+    "AdmArea": "Центральный административный округ",
+    "District": "район Хамовники",
+    "Address": "улица Лужники, дом 24, строение 3",
+    "Email": "",
+    "WebSite": "luzhniki.ru",
+    "HelpPhone": "(495) 780-08-08",
+    "WorkingHoursWinter": [
+      {
+        "DayOfWeek": "среда",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "08:00-20:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "да",
+    "HasDressingRoom": "да",
+    "HasEatery": "да",
+    "HasToilet": "да",
+    "HasWifi": "да",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "нет",
+    "HasMusic": "да",
+    "Lighting": "освещение лампами накаливания",
+    "SurfaceTypeWinter": "газонное покрытие (натуральное)",
+    "Seats": "500",
+    "Paid": "платно",
+    "DisabilityFriendly": "частично приспособлен"
+  },
+  {
+    "ObjectName": "Спортивный комплекс образовательного учреждения",
+    "AdmArea": "Северо-Восточный административный округ",
+    "District": "Бабушкинский район",
+    "Address": "Олонецкий проезд, дом 6",
+    "Email": "1095@edu.mos.ru",
+    "WebSite": "sch1095sv.mskobr.ru",
+    "HelpPhone": "(495) 470-91-55",
+    "WorkingHoursWinter": [
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "09:00-21:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "09:00-21:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "17:00-21:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "17:00-21:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "17:00-21:00"
+      },
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "17:00-21:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "17:00-21:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "да",
+    "HasDressingRoom": "да",
+    "HasEatery": "да",
+    "HasToilet": "да",
+    "HasWifi": "да",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "да",
+    "HasMusic": "да",
+    "Lighting": "без дополнительного освещения",
+    "SurfaceTypeWinter": "газонное покрытие (искусственное)",
+    "Seats": "0",
+    "Paid": "бесплатно",
+    "DisabilityFriendly": "не приспособлен"
+  },
+  {
+    "ObjectName": "Стадион (1500 и более мест) «Спартаковец имени Н.П. Старостина»»",
+    "AdmArea": "Восточный административный округ",
+    "District": "район Богородское",
+    "Address": "3-я Гражданская улица, дом 47",
+    "Email": "spartakovets2013@yandex.ru",
+    "WebSite": "stadion-spartakovets.ru",
+    "HelpPhone": "(495) 963-31-63",
+    "WorkingHoursWinter": [
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "09:00-22:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "09:00-22:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "09:00-22:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "09:00-22:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "09:00-22:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "09:00-22:00"
+      },
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "09:00-22:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "да",
+    "HasDressingRoom": "да",
+    "HasDressingRoom": "да",
+    "HasEatery": "да",
+    "HasToilet": "да",
+    "HasWifi": "да",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "да",
+    "HasMusic": "да",
+    "Lighting": "смешанное освещение",
+    "SurfaceTypeWinter": "газонное покрытие (искусственное)",
+    "Seats": "1500",
+    "Paid": "платно",
+    "DisabilityFriendly": "не приспособлен"
+  },
+  {
+    "ObjectName": "Стадион (менее 1500 мест) «Буревестник»",
+    "AdmArea": "Центральный административный округ",
+    "District": "район Хамовники",
+    "Address": "улица Плющиха, дом 57",
+    "Email": "bass.msok@yandex.ru",
+    "WebSite": "www.sechenov.ru/univers/structure/other/stadion-burevestnik/",
+    "HelpPhone": "(495) 532-37-85",
+    "WorkingHoursWinter": [
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "08:00-20:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "нет",
+    "HasDressingRoom": "нет",
+    "HasEatery": "нет",
+    "HasToilet": "нет",
+    "HasWifi": "нет",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "нет",
+    "HasMusic": "нет",
+    "Lighting": "освещение лампами накаливания",
+    "SurfaceTypeWinter": "газонное покрытие (натуральное)",
+    "Seats": "0",
+    "Paid": "бесплатно",
+    "DisabilityFriendly": "частично приспособлен"
+  },
+  {
+    "ObjectName": "Малая спортивная арена «Лужники»",
+    "AdmArea": "Центральный административный округ",
+    "District": "район Хамовники",
+    "Address": "улица Лужники, дом 24, строение 3",
+    "Email": "",
+    "WebSite": "luzhniki.ru",
+    "HelpPhone": "(495) 780-08-08",
+    "WorkingHoursWinter": [
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "08:00-20:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "да",
+    "HasDressingRoom": "да",
+    "HasEatery": "да",
+    "HasToilet": "да",
+    "HasWifi": "да",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "нет",
+    "HasMusic": "да",
+    "Lighting": "освещение лампами накаливания",
+    "SurfaceTypeWinter": "газонное покрытие (натуральное)",
+    "Seats": "100",
+    "Paid": "платно",
+    "DisabilityFriendly": "частично приспособлен"
+  },
+  {
+    "ObjectName": "Спортивная арена «РЖД-Арена (стадион Локомотив)»",
+    "AdmArea": "Восточный административный округ",
+    "District": "район Преображенское",
+    "Address": "Большая Черкизовская улица, владение 125, строение 1",
+    "Email": "",
+    "WebSite": "school.fclm.ru/media/photo",
+    "HelpPhone": "(499) 161-01-74",
+    "WorkingHoursWinter": [
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "08:00-22:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "08:00-22:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "08:00-22:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "08:00-22:00"
+      },
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "08:00-22:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "08:00-22:00"
+      },
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "08:00-22:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "да",
+    "HasDressingRoom": "да",
+    "HasEatery": "да",
+    "HasToilet": "да",
+    "HasWifi": "да",
+    "HasCashMachine": "да",
+    "HasFirstAidPost": "да",
+    "HasMusic": "нет",
+    "Lighting": "смешанное освещение",
+    "SurfaceTypeWinter": "газонное покрытие (искусственное)",
+    "Seats": "0",
+    "Paid": "платно",
+    "DisabilityFriendly": null
+  },
+  {
+    "ObjectName": "Стадион (менее 1500 мест) «Салют Гераклион»",
+    "AdmArea": "Северо-Западный административный округ",
+    "District": "район Южное Тушино",
+    "Address": "Лодочная улица, дом 15, строение 1",
+    "Email": "salut@geraklionsport.ru",
+    "WebSite": "startfootball.ru",
+    "HelpPhone": "(495) 497-12-51",
+    "WorkingHoursWinter": [
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "08:00-20:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "нет",
+    "HasDressingRoom": "нет",
+    "HasEatery": "нет",
+    "HasToilet": "нет",
+    "HasWifi": "нет",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "нет",
+    "HasMusic": "нет",
+    "Lighting": "смешанное освещение",
+    "SurfaceTypeWinter": "газонное покрытие (искусственное)",
+    "Seats": "1000",
+    "Paid": "платно",
+    "DisabilityFriendly": "не приспособлен"
+  },
+  {
+    "ObjectName": "Большая спортивная арена «Лужники»",
+    "AdmArea": "Центральный административный округ",
+    "District": "район Хамовники",
+    "Address": "улица Лужники, дом 24, строение 1",
+    "Email": "",
+    "WebSite": "luzhniki.ru",
+    "HelpPhone": "(495) 780-08-08",
+    "WorkingHoursWinter": [
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "08:00-20:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "да",
+    "HasDressingRoom": "да",
+    "HasEatery": "да",
+    "HasToilet": "да",
+    "HasWifi": "да",
+    "HasCashMachine": "да",
+    "HasFirstAidPost": "да",
+    "HasMusic": "да",
+    "Lighting": "смешанное освещение",
+    "SurfaceTypeWinter": "специальное покрытие",
+    "Seats": "81000",
+    "Paid": "платно",
+    "DisabilityFriendly": "частично приспособлен"
+  },
+  {
+    "ObjectName": "Спортивная арена «РЖД-Арена (стадион Локомотив)»",
+    "AdmArea": "Восточный административный округ",
+    "District": "район Преображенское",
+    "Address": "Большая Черкизовская улица, владение 125, строение 1",
+    "Email": "",
+    "WebSite": "school.fclm.ru/media/photo",
+    "HelpPhone": "(499) 161-01-74",
+    "WorkingHoursWinter": [
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "08:00-20:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "да",
+    "HasDressingRoom": "да",
+    "HasEatery": "да",
+    "HasToilet": "да",
+    "HasWifi": "да",
+    "HasCashMachine": "да",
+    "HasFirstAidPost": "да",
+    "HasMusic": "нет",
+    "Lighting": "смешанное освещение",
+    "SurfaceTypeWinter": "газонное покрытие (искусственное)",
+    "Seats": "27320",
+    "Paid": "платно",
+    "DisabilityFriendly": "частично приспособлен"
+  },
+  {
+    "ObjectName": "Стадион «Ангстрем»",
+    "AdmArea": "Зеленоградский административный округ",
+    "District": "район Старое Крюково",
+    "Address": "город Зеленоград, Озёрная аллея, дом 3",
+    "Email": "s112@mossport.ru",
+    "WebSite": "s112.mossport.ru",
+    "HelpPhone": "(903) 130-05-70",
+    "WorkingHoursWinter": [
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "09:00-22:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "09:00-22:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "09:00-22:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "09:00-22:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "09:00-22:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "09:00-22:00"
+      },
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "09:00-22:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "да",
+    "HasDressingRoom": "да",
+    "HasEatery": "нет",
+    "HasToilet": "да",
+    "HasWifi": "нет",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "нет",
+    "HasMusic": "нет",
+    "Lighting": "без дополнительного освещения",
+    "SurfaceTypeWinter": "газонное покрытие (искусственное)",
+    "Seats": "1580",
+    "Paid": "бесплатно",
+    "DisabilityFriendly": null
+  },
+  {
+    "ObjectName": "Спортивный зал «Спортивная школа олимпийского резерва Москвич»",
+    "AdmArea": "Юго-Восточный административный округ",
+    "District": "район Текстильщики",
+    "Address": "Волгоградский проспект, дом 46/15, строение 16",
+    "Email": "moskvich@sport-moskvich.ru",
+    "WebSite": "www.sport-moskvich.ru",
+    "HelpPhone": "(499) 178-71-26",
+    "WorkingHoursWinter": [
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "09:00-21:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "09:00-21:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "09:00-21:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "09:00-21:00"
+      },
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "09:00-21:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "09:00-21:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "09:00-21:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "да",
+    "HasDressingRoom": "да",
+    "HasEatery": "нет",
+    "HasToilet": "да",
+    "HasWifi": "нет",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "нет",
+    "HasMusic": "да",
+    "Lighting": "освещение газоразрядными лампами",
+    "SurfaceTypeWinter": "газонное покрытие (искусственное)",
+    "Seats": "286",
+    "Paid": "платно",
+    "DisabilityFriendly": "частично приспособлен"
+  },
+  {
+    "ObjectName": "Стадион «Открытие Арена»",
+    "AdmArea": "Северо-Западный административный округ",
+    "District": "район Покровское-Стрешнево",
+    "Address": "Волоколамское шоссе, дом 69",
+    "Email": "",
+    "WebSite": "otkritiearena.ru/",
+    "HelpPhone": "(495) 530-95-01",
+    "WorkingHoursWinter": [
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "08:00-23:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "08:00-23:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "08:00-23:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "08:00-23:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "08:00-23:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "08:00-23:00"
+      },
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "08:00-23:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "да",
+    "HasDressingRoom": "да",
+    "HasDressingRoom": "да",
+    "HasEatery": "да",
+    "HasToilet": "да",
+    "HasWifi": "да",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "да",
+    "HasMusic": "да",
+    "Lighting": "освещение светодиодными лампами",
+    "SurfaceTypeWinter": "газонное покрытие (натуральное)",
+    "Seats": "0",
+    "Paid": "платно",
+    "DisabilityFriendly": null
+  },
+  {
+    "ObjectName": "Комплекс спортивных сооружений «Смена»",
+    "AdmArea": "Юго-Восточный административный округ",
+    "District": "район Капотня",
+    "Address": "2-й квартал Капотня, дом 2А, строение 1",
+    "Email": "smena-63@mail.ru",
+    "WebSite": "fs-smena63.ru",
+    "HelpPhone": "(495) 355-22-57",
+    "WorkingHoursWinter": [
+      {
+        "DayOfWeek": "среда",
+        "Hours": "08:00-22:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "08:00-22:00"
+      },
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "08:00-22:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "08:00-22:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "08:00-22:00"
+      },
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "08:00-22:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "08:00-22:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "да",
+    "HasDressingRoom": "да",
+    "HasEatery": "нет",
+    "HasToilet": "да",
+    "HasWifi": "нет",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "да",
+    "HasMusic": "да",
+    "Lighting": "смешанное освещение",
+    "SurfaceTypeWinter": "газонное покрытие (искусственное)",
+    "Seats": "1200",
+    "Paid": "платно",
+    "DisabilityFriendly": "приспособлен для всех групп инвалидов"
+  },
+  {
+    "ObjectName": "Стадион «Открытие Арена»",
+    "AdmArea": "Северо-Западный административный округ",
+    "District": "район Покровское-Стрешнево",
+    "Address": "Волоколамское шоссе, дом 69",
+    "Email": "",
+    "WebSite": "otkritiearena.ru/",
+    "HelpPhone": "(495) 530-95-01",
+    "WorkingHoursWinter": [
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "08:00-23:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "08:00-23:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "08:00-23:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "08:00-23:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "08:00-23:00"
+      },
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "08:00-23:00"
+      },
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "08:00-23:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "да",
+    "HasDressingRoom": "да",
+    "HasDressingRoom": "да",
+    "HasEatery": "да",
+    "HasToilet": "да",
+    "HasWifi": "да",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "да",
+    "HasMusic": "да",
+    "Lighting": "освещение светодиодными лампами",
+    "SurfaceTypeWinter": "газонное покрытие (натуральное)",
+    "Seats": "0",
+    "Paid": "платно",
+    "DisabilityFriendly": null
+  },
+  {
+    "ObjectName": "Спортивный комплекс образовательного учреждения",
+    "AdmArea": "Южный административный округ",
+    "District": "район Нагатинский Затон",
+    "Address": "Судостроительная улица, дом 43, корпус 2",
+    "Email": "1770@edu.mos.ru",
+    "WebSite": "sch1770.mskobr.ru",
+    "HelpPhone": "(499) 615-89-88",
+    "WorkingHoursWinter": [
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "08:00-20:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "да",
+    "HasDressingRoom": "да",
+    "HasEatery": "нет",
+    "HasToilet": "да",
+    "HasWifi": "да",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "нет",
+    "HasMusic": "нет",
+    "Lighting": "смешанное освещение",
+    "SurfaceTypeWinter": "газонное покрытие (искусственное)",
+    "Seats": "0",
+    "Paid": "бесплатно",
+    "DisabilityFriendly": "не приспособлен"
+  },
+  {
+    "ObjectName": "Комплекс спортивных сооружений «Олимпийская деревня-80»",
+    "AdmArea": "Западный административный округ",
+    "District": "район Тропарёво-Никулино",
+    "Address": "улица Мичуринский Проспект, Олимпийская Деревня, дом 2",
+    "Email": "bobrik@sport-olimp80.ru",
+    "WebSite": "sport-olimp80.ru",
+    "HelpPhone": "(495) 437-19-66",
+    "WorkingHoursWinter": [
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "08:00-22:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "08:00-22:00"
+      },
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "08:00-22:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "08:00-22:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "08:00-22:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "08:00-22:00"
+      },
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "08:00-22:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "да",
+    "HasDressingRoom": "да",
+    "HasEatery": "да",
+    "HasToilet": "да",
+    "HasWifi": "да",
+    "HasCashMachine": "да",
+    "HasFirstAidPost": "да",
+    "HasMusic": "да",
+    "Lighting": "смешанное освещение",
+    "SurfaceTypeWinter": "газонное покрытие (искусственное)",
+    "Seats": "350",
+    "Paid": "платно",
+    "DisabilityFriendly": "не приспособлен"
+  },
+  {
+    "ObjectName": "Спортивный комплекс образовательного учреждения",
+    "AdmArea": "Юго-Восточный административный округ",
+    "District": "район Марьино",
+    "Address": "улица Перерва, дом 36",
+    "Email": "2087@edu.mos.ru",
+    "WebSite": "sch2087uv.mskobr.ru",
+    "HelpPhone": "(499) 356-38-11",
+    "WorkingHoursWinter": [
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "08:00-20:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "да",
+    "HasDressingRoom": "да",
+    "HasEatery": "нет",
+    "HasToilet": "да",
+    "HasWifi": "да",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "нет",
+    "HasMusic": "нет",
+    "Lighting": "без дополнительного освещения",
+    "SurfaceTypeWinter": "специальное покрытие",
+    "Seats": "400",
+    "Paid": "бесплатно",
+    "DisabilityFriendly": "частично приспособлен"
+  },
+  {
+    "ObjectName": "Стадион «Открытие Арена»",
+    "AdmArea": "Северо-Западный административный округ",
+    "District": "район Покровское-Стрешнево",
+    "Address": "Волоколамское шоссе, дом 69",
+    "Email": "",
+    "WebSite": "otkritiearena.ru/",
+    "HelpPhone": "(495) 530-95-01",
+    "WorkingHoursWinter": [
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "08:00-23:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "08:00-23:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "08:00-23:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "08:00-23:00"
+      },
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "08:00-23:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "08:00-23:00"
+      },
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "08:00-23:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "да",
+    "HasDressingRoom": "да",
+    "HasDressingRoom": "да",
+    "HasEatery": "да",
+    "HasToilet": "да",
+    "HasWifi": "да",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "да",
+    "HasMusic": "да",
+    "Lighting": "освещение светодиодными лампами",
+    "SurfaceTypeWinter": "газонное покрытие (натуральное)",
+    "Seats": "0",
+    "Paid": "платно",
+    "DisabilityFriendly": null
+  },
+  {
+    "ObjectName": "Комплекс спортивных сооружений «Рублево»",
+    "AdmArea": "Западный административный округ",
+    "District": "район Кунцево",
+    "Address": "улица Василия Ботылёва, дом 41",
+    "Email": "s94@mossport.ru",
+    "WebSite": "fcstrogino.ru",
+    "HelpPhone": "(499) 727-40-05",
+    "WorkingHoursWinter": [
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "08:00-20:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "да",
+    "HasDressingRoom": "да",
+    "HasEatery": "нет",
+    "HasToilet": "да",
+    "HasWifi": "нет",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "да",
+    "HasMusic": "нет",
+    "Lighting": "освещение газоразрядными лампами",
+    "SurfaceTypeWinter": "газонное покрытие (искусственное)",
+    "Seats": "0",
+    "Paid": "платно",
+    "DisabilityFriendly": "не приспособлен"
+  },
+  {
+    "ObjectName": "Спортивный комплекс высшего учебного заведения «Московское высшее общевойсковое командное училище или МВОКУ»",
+    "AdmArea": "Юго-Восточный административный округ",
+    "District": "район Люблино",
+    "Address": "улица Головачёва, дом 2",
+    "Email": "",
+    "WebSite": "mvoku.mil.ru",
+    "HelpPhone": "(499) 172-90-06",
+    "WorkingHoursWinter": [
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "08:00-20:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "нет",
+    "HasDressingRoom": "нет",
+    "HasEatery": "нет",
+    "HasToilet": "нет",
+    "HasWifi": "нет",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "нет",
+    "HasMusic": "нет",
+    "Lighting": "освещение светодиодными лампами",
+    "SurfaceTypeWinter": "газонное покрытие (натуральное)",
+    "Seats": "0",
+    "Paid": "платно",
+    "DisabilityFriendly": "не приспособлен"
+  },
+  {
+    "ObjectName": "Стадион «Сокол»",
+    "AdmArea": "Центральный административный округ",
+    "District": "Басманный район",
+    "Address": "Елизаветинский переулок, дом 3А, строение 1",
+    "Email": "",
+    "WebSite": "www.stadion-sokol.com",
+    "HelpPhone": "(499) 941-13-46",
+    "WorkingHoursWinter": [
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "08:00-20:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "да",
+    "HasDressingRoom": "да",
+    "HasEatery": "да",
+    "HasToilet": "да",
+    "HasWifi": "нет",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "да",
+    "HasMusic": "да",
+    "Lighting": "смешанное освещение",
+    "SurfaceTypeWinter": "специальное покрытие",
+    "Seats": "500",
+    "Paid": "платно",
+    "DisabilityFriendly": "частично приспособлен"
+  },
+  {
+    "ObjectName": "Стадион «Локомотив 2-Перово»",
+    "AdmArea": "Восточный административный округ",
+    "District": "район Перово",
+    "Address": "улица Лазо, дом 9",
+    "Email": "",
+    "WebSite": "school.fclm.ru",
+    "HelpPhone": "(495) 309-20-64",
+    "WorkingHoursWinter": [
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "08:00-20:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "да",
+    "HasDressingRoom": "да",
+    "HasEatery": "нет",
+    "HasToilet": "да",
+    "HasWifi": "нет",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "нет",
+    "HasMusic": "нет",
+    "Lighting": "смешанное освещение",
+    "SurfaceTypeWinter": "специальное покрытие",
+    "Seats": "1300",
+    "Paid": "платно",
+    "DisabilityFriendly": "не приспособлен"
+  },
+  {
+    "ObjectName": "Стадион «Арена-Сокол» ГБУ «СШОР № 27 «Сокол» Москомспорта»",
+    "AdmArea": "Центральный административный округ",
+    "District": "Басманный район",
+    "Address": "Новорязанская улица, дом 29, строение 1",
+    "Email": "s27@mossport.ru",
+    "WebSite": "www.27sokol.ru",
+    "HelpPhone": "(499) 264-41-74",
+    "WorkingHoursWinter": [
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "08:00-21:00"
+      },
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "08:00-21:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "08:00-21:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "08:00-21:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "08:00-21:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "08:00-21:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "08:00-21:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "да",
+    "HasDressingRoom": "да",
+    "HasEatery": "да",
+    "HasToilet": "да",
+    "HasWifi": "нет",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "да",
+    "HasMusic": "да",
+    "Lighting": "освещение газоразрядными лампами",
+    "SurfaceTypeWinter": "газонное покрытие (искусственное)",
+    "Seats": "99",
+    "Paid": "платно",
+    "DisabilityFriendly": null
+  },
+  {
+    "ObjectName": "Стадион (менее 1500 мест) «Красный Балтиец»",
+    "AdmArea": "Северный административный округ",
+    "District": "район Коптево",
+    "Address": "улица Космонавта Волкова, дом 31, строение 3",
+    "Email": "",
+    "WebSite": "www.rugbymoscow.ru/stadions/view/id/7",
+    "HelpPhone": "(495) 645-85-36",
+    "WorkingHoursWinter": [
+      {
+        "DayOfWeek": "воскресенье",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "суббота",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "четверг",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "среда",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "вторник",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "понедельник",
+        "Hours": "08:00-20:00"
+      },
+      {
+        "DayOfWeek": "пятница",
+        "Hours": "08:00-20:00"
+      }
+    ],
+    "HasEquipmentRental": "нет",
+    "HasTechService": "нет",
+    "HasDressingRoom": "нет",
+    "HasDressingRoom": "нет",
+    "HasEatery": "нет",
+    "HasToilet": "нет",
+    "HasWifi": "нет",
+    "HasCashMachine": "нет",
+    "HasFirstAidPost": "нет",
+    "HasMusic": "нет",
+    "Lighting": "смешанное освещение",
+    "SurfaceTypeWinter": "газонное покрытие (натуральное)",
+    "Seats": "0",
+    "Paid": "бесплатно",
+    "DisabilityFriendly": "не приспособлен"
+  }
+]
